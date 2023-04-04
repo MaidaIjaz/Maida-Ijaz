@@ -12,7 +12,7 @@
 
 - 📫 Reach me through **maidaijaz64@gmail.com**
 
-- 📄 Know about my experiences [My Resume]()
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1tAs5g7YIPZMhuW-9KqeGLebPYhKRjItx/view?usp=sharing)
 
 - ⚡ Fun fact: I travelled across 12 countries and I love gelato
 
