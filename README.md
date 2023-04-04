@@ -6,7 +6,7 @@
 <h4 align="center">University of Engineering and Technology Lahore</h4>
 
 
-- 🔭 I’m currently working as a Developer Advocate
+- 🔭 I’m currently working as a Senior Developer Advocate
 
 - 🌱 I just build [Amazon clone](https://github.com/MaidaIjaz/AmazonCloneNextJS) using NextJS, Stripe and Firestore
 
