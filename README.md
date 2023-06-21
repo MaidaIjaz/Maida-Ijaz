@@ -12,8 +12,6 @@
 
 - 📫 Reach me through **maidaijaz64@gmail.com**
 
-- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/maida-ijaz/)
-
 - ⚡ Fun fact: I travelled across 12 countries and I love gelato
 
 
