@@ -1,6 +1,6 @@
 # Maida-Ijaz
 
-<h1 align="center">Hi 👋, I'm Maida, currently working as Full Stack Software Developer</h1>
+<h1 align="center">Hi 👋, I'm Maida, working as Full Stack Software Developer</h1>
 
 <h3 align="center">cout << "Passionate self-taught web developer with an Electrical Engineering degree" << endl </h3>
 <h4 align="center">University of Engineering and Technology Lahore</h4>
