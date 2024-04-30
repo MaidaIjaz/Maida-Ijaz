@@ -6,7 +6,8 @@
 <h4 align="center">University of Engineering and Technology Lahore</h4>
 
 
-- 🌱 I just build [Amazon clone](https://github.com/MaidaIjaz/AmazonCloneNextJS) using NextJS, Stripe and Firestore
+-  🔨 Maintaining highly-scalable and performant applications mainly with Kafka, Docker and serverless services, such as Lambda, API Gateway and DynamoDB.
+-  🌱 Working with JavaScript-related technologies (Node.js, TypeScript, Angular) and Java 11.
 
 - 📫 Reach me through **maidaijaz64@gmail.com**
 
