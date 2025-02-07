@@ -7,7 +7,7 @@
 
 
 -  🔨 Developing and maintaining highly-scalable and performant applications mainly with Kafka, Docker and serverless services, such as Lambda, API Gateway and DynamoDB.
--  🌱 Working with JavaScript-related technologies (React, Node.js, TypeScript, Angular) and Java 11.
+-  🌱 Working with JavaScript-related technologies (React, Node.js, TypeScript, Angular), Python and Java.
 
 - 📫 Reach me through **maidaijaz64@gmail.com**
 
