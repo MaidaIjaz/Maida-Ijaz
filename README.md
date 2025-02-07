@@ -6,8 +6,8 @@
 <h4 align="center">University of Engineering and Technology Lahore</h4>
 
 
--  🔨 Maintaining highly-scalable and performant applications mainly with Kafka, Docker and serverless services, such as Lambda, API Gateway and DynamoDB.
--  🌱 Working with JavaScript-related technologies (Node.js, TypeScript, Angular) and Java 11.
+-  🔨 Developing and maintaining highly-scalable and performant applications mainly with Kafka, Docker and serverless services, such as Lambda, API Gateway and DynamoDB.
+-  🌱 Working with JavaScript-related technologies (React, Node.js, TypeScript, Angular) and Java 11.
 
 - 📫 Reach me through **maidaijaz64@gmail.com**
 
